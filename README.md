@@ -1,10 +1,5 @@
 Simple Python Dictionary Guide
 A concise, beginner-friendly introduction to Python dictionaries—perfect for counting, mapping, and organizing data.
-📌 What Is a Dictionary?
-
-    Unordered collection of key → value pairs
-    Keys must be unique and hashable (strings, numbers, tuples, etc.)
-    Values can be any Python object
 
 🧪 Mini-Cheat Sheet
 Table
