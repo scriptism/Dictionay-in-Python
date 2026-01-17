@@ -1,5 +1,5 @@
 <h1>A Simple Python Dictionary Guide</h1>
-A concise, beginner-friendly introduction to Python dictionaries—perfect for counting, mapping, and organizing data.
+<p>A concise, beginner-friendly introduction to Python dictionaries—perfect for counting, mapping, and organizing data</p>
 
 🧪 Mini-Cheat Sheet
 Table
